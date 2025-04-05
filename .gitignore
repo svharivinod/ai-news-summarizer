@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+venv310/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# VSCode files
+.vscode/
