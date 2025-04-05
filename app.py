@@ -17,7 +17,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 # ----------------------
 
 st.set_page_config(page_title="AI News Summarizer for Farmers", page_icon="🌾")
-st.title("📰 Local Language News Summarizer for Farmers")
+st.title("📰 KisanVaani - Local Language News Summarizer for Farmers")
 
 st.markdown("""
 This tool summarizes news articles in simple English and translates them to your selected local language with audio playback — ideal for farmers or rural communities.
